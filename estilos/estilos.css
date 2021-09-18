@@ -1,0 +1,112 @@
+#principal{
+    width: 1300px;
+    height: 1200px;    
+    margin: auto;
+}
+
+header{
+    width: 1300px;
+    height: 50px;
+    
+}
+
+
+#slide{
+    margin-top: 10px;
+    width: 900px;
+    height: 200px;
+}
+
+#categorias{
+    width: 1300px;
+    height: auto; overflow: hidden;
+    border: 0px solid;
+    margin-top: 110px;
+}
+
+.uno{
+    width: 237px;
+    height: 380px;
+    border: 1px inset;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    
+}
+.dos{
+    margin-left: 9px;
+    margin-right: 9px;
+    
+}
+.tres{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.cuatro{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.segundo{
+    margin-top: 10px;
+    width: 237px;
+    height: 380px;
+    border: 1px inset;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    
+}
+.tercero{
+    margin-top: 10px;
+    width: 237px;
+    height: 380px;
+    border: 1px inset;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    
+}
+.seis{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.siete{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.ocho{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.cuarto{
+    margin-top: 10px;
+    width: 237px;
+    height: 380px;
+    border: 1px inset;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+.diez{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.once{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+.doce{
+    margin-left: 9px;
+    margin-right: 9px;
+}
+footer {
+    margin-top: 5px;
+    text-align: center;
+    padding: 3px;
+    
+    color: #35352B;
+    
+  }
+
